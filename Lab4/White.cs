@@ -28,6 +28,7 @@
                 {
                     count++;
                 }
+            }
             // end
 
             return count;
@@ -351,3 +352,4 @@
     }
 
 }
+
